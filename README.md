@@ -3,7 +3,7 @@
 
 ### Setup
 1. Install [node.js](https://nodejs.org/en/download/)
-2. Run `npm install cli-journal` and then `npm link`
+2. Run `npm install -g cli-journal`
 3. You should be able to run cli-journal from your command line
 
 OR
